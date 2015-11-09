@@ -1,0 +1,17 @@
+Source: ZeroHedgeCoin0
+Section: misc
+Priority: extra
+Maintainer: ZeroHedgeCoin0 <akira.takizawa@morningZeroHedgeCoin0.com>
+Build-Depends: debhelper (>= 5),
+	libminiupnpc-dev,
+	libdb++-dev,
+	libboost-system-dev, libboost-filesystem-dev, libboost-program-options-dev, libboost-thread-dev,
+	qt5-default, qttools5-dev-tools,
+	desktop-file-utils, 
+Standards-Version: 3.8.3
+Homepage: http://www.morningZeroHedgeCoin0.com/
+
+Package: ZeroHedgeCoin0
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: ZeroHedgeCoin0 Wallet

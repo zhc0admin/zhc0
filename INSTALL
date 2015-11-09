@@ -1,0 +1,9 @@
+Building ZeroHedgeCoin0
+
+See doc/readme-qt.rst for instructions on building ZeroHedgeCoin0 QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ZeroHedgeCoin0.
+
+See doc/build-*.txt for instructions on building ZeroHedgeCoin0d,
+the intended-for-services, no-graphical-interface, reference
+implementation of ZeroHedgeCoin0.
